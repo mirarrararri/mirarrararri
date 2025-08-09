@@ -1,16 +1,21 @@
-## Hi there 👋
+# Welcome Aboard, Im Mera👋
 
-<!--
-**mirarrararri/mirarrararri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ABOUT ME: 
+- 2nd Year BSIT student at Polytechnic University of the Philippines
+- Asspiring IT professeional with a dream to work abroad
+- Passionate about: learning, coding, creating projects and improvement
 
-Here are some ideas to get you started:
+SKILLS:
+- Python(Beginner)
+- Basic Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CURRENT FOCUS:
+*Building Python projects to improve my coding skill
+*Learning best practices in Git & GitHub
+*Exploring real-world application of programing
+
+⚡ FUN FACTS ABOUT ME: ...
+- I believe in learning one step at a time - even the smallest progress counts!
+- I love turning "I can't into How can I?"
+- I am a hardworking and determined towards my goals. Once i play, i played to WIN!
+- MY MOTTO: "Every expert was once a beginner and I'm on my way!"
