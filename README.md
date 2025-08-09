@@ -1,18 +1,18 @@
-# Welcome Aboard, Im Mera👋
+# Welcome Aboard, Im Meralyn👋
 
 ABOUT ME: 
 - 2nd Year BSIT student at Polytechnic University of the Philippines
-- Asspiring IT professeional with a dream to work abroad
-- Passionate about: learning, coding, creating projects and improvement
+- Aspiring IT professeional with a dream to work abroad
+- Passionate about: learning, coding, creating projects and improvements
 
 SKILLS:
 - Python(Beginner)
 - Basic Git & GitHub
 
 CURRENT FOCUS:
-*Building Python projects to improve my coding skill
-*Learning best practices in Git & GitHub
-*Exploring real-world application of programing
+- Building Python projects to improve my coding skills
+- Learning best practices in Git & GitHub
+- Exploring real-world application of programing
 
 ⚡ FUN FACTS ABOUT ME: ...
 - I believe in learning one step at a time - even the smallest progress counts!
