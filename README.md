@@ -1,4 +1,4 @@
-# Welcome Aboard, Im Meralyn👋
+# Welcome aboard!, I'm Meralyn👋
 
 ABOUT ME: 
 - 2nd Year BSIT student at Polytechnic University of the Philippines
