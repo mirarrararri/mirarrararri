@@ -2,7 +2,7 @@
 
 ABOUT ME: 
 - 2nd Year BSIT student at Polytechnic University of the Philippines
-- Aspiring IT professeional with a dream to work abroad
+- Aspiring IT professional with a dream to work abroad
 - Passionate about: learning, coding, creating projects and improvements
 
 SKILLS:
@@ -16,6 +16,6 @@ CURRENT FOCUS:
 
 ⚡ FUN FACTS ABOUT ME: ...
 - I believe in learning one step at a time - even the smallest progress counts!
-- I love turning "I can't into How can I?"
+- I love turning "I can't" into "How can I?"
 - I am a hardworking and determined towards my goals. Once i play, i played to WIN!
 - MY MOTTO: "Every expert was once a beginner and I'm on my way!"
